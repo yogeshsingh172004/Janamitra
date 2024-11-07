@@ -1,0 +1,29 @@
+[debug] [2024-11-07T12:09:43.126Z] ----------------------------------------------------------------------
+[debug] [2024-11-07T12:09:43.127Z] Command:       /usr/local/share/nvm/versions/node/v20.17.0/bin/node /home/codespace/nvm/current/bin/firebase login
+[debug] [2024-11-07T12:09:43.128Z] CLI Version:   13.24.1
+[debug] [2024-11-07T12:09:43.128Z] Platform:      linux
+[debug] [2024-11-07T12:09:43.128Z] Node Version:  v20.17.0
+[debug] [2024-11-07T12:09:43.128Z] Time:          Thu Nov 07 2024 12:09:43 GMT+0000 (Coordinated Universal Time)
+[debug] [2024-11-07T12:09:43.128Z] Env Overrides: GITHUB_API_URL, GITHUB_API_URL
+[debug] [2024-11-07T12:09:43.128Z] ----------------------------------------------------------------------
+[debug] 
+[info] i  Firebase optionally collects CLI and Emulator Suite usage and error reporting information to help improve our products. Data is collected in accordance with Google's privacy policy (https://policies.google.com/privacy) and is not used to identify you.
+ 
+[info] i  To change your data collection preference at any time, run `firebase logout` and log in again. 
+[debug] [2024-11-07T12:09:44.625Z] >>> [apiv2][query] POST https://auth.firebase.tools/attest [none]
+[debug] [2024-11-07T12:09:44.625Z] >>> [apiv2][body] POST https://auth.firebase.tools/attest {"session_id":"abf05de9-e952-490e-9a7a-db145549f3fc"}
+[debug] [2024-11-07T12:09:45.197Z] <<< [apiv2][status] POST https://auth.firebase.tools/attest 200
+[debug] [2024-11-07T12:09:45.197Z] <<< [apiv2][body] POST https://auth.firebase.tools/attest {"token":"mUWvf5bBU5msxdoWoNVbGfZy78RZ652gHGmBMjir82I"}
+[info] 
+[info] To sign in to the Firebase CLI:
+[info] 
+[info] 1. Take note of your session ID:
+[info] 
+[info]    ABF05
+[info] 
+[info] 2. Visit the URL below on any device and follow the instructions to get your code:
+[info] 
+[info]    https://auth.firebase.tools/login?code_challenge=NVZZ14dnYAL5WRUehHMATs0djWBNjnFoa3bri8qsr34&session=abf05de9-e952-490e-9a7a-db145549f3fc&attest=mUWvf5bBU5msxdoWoNVbGfZy78RZ652gHGmBMjir82I
+[info] 
+[info] 3. Paste or enter the authorization code below once you have it:
+[info] 
