@@ -10,9 +10,9 @@ import { getStorage } from "firebase/storage";
 // For Firebase JS SDK v7.20.0 and later, measurementId is optional
 const firebaseConfig = {
   apiKey: "AIzaSyCCsLMhRwutN6P5IJ1gBSE2zixX3njehVk",
-  authDomain: "forum-17a9d.firebaseapp.com",
-  projectId: "forum-17a9d",
-  storageBucket: "forum-17a9d.firebasestorage.app",
+  authDomain: "project-janamitra.firebaseapp.com",
+  projectId: "project-janamitra",
+  storageBucket: "project-janamitra.firebasestorage.app",
   messagingSenderId: "566850248407",
   appId: "1:566850248407:web:bd6188a5d3ee70f6c79a92",
   measurementId: "G-SEJMQKRZPC"
